@@ -1,5 +1,7 @@
 {
-  "benzin": 54.86,
-  "motorin": 59.47,
-  "lpg": 27.71
+  "fiyatlar": {
+    "benzin": "54.90 TL",
+    "motorin": "59.40 TL",
+    "lpg": "27.70 TL"
+  }
 }
